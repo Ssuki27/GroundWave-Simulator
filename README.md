@@ -3,9 +3,9 @@ Ejecutable del simulador GroundWave Simulator para la determinación y represent
 
                        Ground Wave Simulator
 
-                    	Manual de Usuario
+                     Manual de Usuario
 
-                        Javier Ojeda Prieto
+                       Javier Ojeda Prieto
 
                          Sevilla, 2020
 
