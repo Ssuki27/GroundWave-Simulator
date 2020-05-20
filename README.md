@@ -14,6 +14,7 @@ Ejecutable del simulador GroundWave Simulator para la determinación y represent
 
 Ubicar la carpeta descomprimida GWSim en Disco Local (C:), de 
 manera que la ubicación quede: C:\GWSim
+
 Abrir ejecutable GroundWave Simulator
 
 Solo disponible para Windows.
